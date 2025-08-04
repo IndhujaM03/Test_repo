@@ -1146,7 +1146,7 @@ export class ToolInfoDisplayComponent implements OnInit {
   
   // Real AI tool demo videos database
   private videoData: any = null;
-  private baseUrl = 'http://localhost:8080/api';
+  private baseUrl = 'https://ai-tools-backend-744026243338.us-central1.run.app/api';
 // Math: any;
 
   ngOnInit() {
